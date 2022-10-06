@@ -1,2 +1,2 @@
-# though_project
+# thought-project
 Node application using monolithic architecture
